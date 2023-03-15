@@ -1,21 +1,21 @@
 
 # AI examples without data:-
-1.	Maps and Navigation
-   ### you can now use Google or Apple Maps on your phone and type in your destination.
-2.	Facial Detection and Recognition
+### 1.	Maps and Navigation
+   you can now use Google or Apple Maps on your phone and type in your destination.
+### 2.	Facial Detection and Recognition
 Using virtual filters on our faces when taking pictures and using face ID for unlocking our phones.
-3.	Chatbots
+### 3.	Chatbots
 The programmed algorithms enable machines to answer frequently asked questions, take and track orders, and direct calls.
 
 # Companies work with AI:-
-   1. Heuro Labs
+ ###  1. Heuro Labs
       Artificial Intelligence, Cognitive Computing, Machine Learning, Big Data,    
       Data Fusion and Data Mining.
-   2. IBM Egypt
+  ### 2. IBM Egypt
       NLP(Watson practice team), ML, DL
-     3. Incorta
+ ###    3. Incorta
      Robotics, computer vision
-    4. InnoVision Systems
+ ###   4. InnoVision Systems
        Robotics, computer vision.
 
 # Compiled and interpreted programming languages :- 
