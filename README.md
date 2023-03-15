@@ -1,7 +1,7 @@
 
 # AI examples without data:-
 1.	Maps and Navigation
-you can now use Google or Apple Maps on your phone and type in your destination.
+   ### you can now use Google or Apple Maps on your phone and type in your destination.
 2.	Facial Detection and Recognition
 Using virtual filters on our faces when taking pictures and using face ID for unlocking our phones.
 3.	Chatbots
