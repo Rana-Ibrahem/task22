@@ -8,19 +8,19 @@ Using virtual filters on our faces when taking pictures and using face ID for un
 The programmed algorithms enable machines to answer frequently asked questions, take and track orders, and direct calls.
 
 # Companies work with AI:-
-   1.Heuro Labs.
+   1. Heuro Labs.
       Artificial Intelligence, Cognitive Computing, Machine Learning, Big Data,    
       Data Fusion and Data Mining.
-   2.IBM Egypt.
+   2. IBM Egypt.
       NLP(Watson practice team), ML, DL
-     3.Incorta.
+     3. Incorta.
      Robotics, computer vision
-    4.InnoVision Systems.
+    4. InnoVision Systems.
        Robotics, computer vision.
 
 # Compiled and interpreted programming languages :- 
-types of compiled language – CLEO, COBOL, C, C++, C#, etc.
-types of interpreted languages are PHP, Ruby, Python, and JavaScript.
+1. types of compiled language – CLEO, COBOL, C, C++, C#, etc.
+2. types of interpreted languages are PHP, Ruby, Python, and JavaScript.
 
 # Difference between opend and not open softwares:-
 With closed source software (also known as proprietary software), the public is not given access to the source code, so they can't see or modify it in any way. But with open source software, the source code is publicly available to anyone who wants it, and programmers can read or change that code if they desire.
